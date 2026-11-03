@@ -16,18 +16,13 @@ latest_posts:
 
 Hi, welcome! I am **Sing Kwong Lai (賴星光)**, an undergraduate student at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), majoring in Computer Science with an extended major in Artificial Intelligence.
 
-I am currently working with [Zhaochen Su](https://zhaochen0110.github.io/) in [Prof. Yi R. (May) Fung](https://mayrfung.github.io/)'s group on LLM agents for alpha mining. I also continue to collaborate with Zeyu Liu on financial AI research in [Prof. Song Guo](https://cse.hkust.edu.hk/~songguo/)'s group.
+I am currently working on **AI for Quant** in [Prof. Yi R. (May) Fung](https://mayrfung.github.io/)'s group, mentored by [Zhaochen Su](https://zhaochen0110.github.io/). Previously, I collaborated with Mr. Zeyu LIU on AI for finance in [Prof. Song Guo](https://cse.hkust.edu.hk/~songguo/)'s group.
 
-My research interests include **LLM agents, agent evaluation, and financial AI**. I am interested in understanding how agents make decisions in dynamic environments and how we can evaluate their reliability beyond final outcomes.
+My research interests include **AI for Quant, LLM agents, and reinforcement learning**. I am also keen to explore a broader range of research directions in AI. If you are interested in collaboration, feel free to reach out!
 
 #### Research Experience
 
 - **Undergraduate Researcher · HKUST** &nbsp; October 2026 – present  
-  LLM agents for alpha mining, working with Zhaochen Su in Prof. Yi R. (May) Fung's group.
-- **Undergraduate Researcher · HKUST** &nbsp; 2025 – present  
-  Financial agents and reinforcement learning, mentored by Zeyu Liu in Prof. Song Guo's group. My work includes AStockArena, FPQC-SAC, and FinThink.
-
-#### Earlier Research
-
-[**FinThink: An LLM-based Multi-agent System for Financial Reasoning**](https://openreview.net/forum?id=vm7xqrU345) · OpenReview manuscript  
-I worked on baseline reproduction, backtesting, and improvements to the memory module.
+  AI for Quant in Prof. Yi R. (May) Fung's group, mentored by Zhaochen Su.
+- **Undergraduate Researcher · HKUST** &nbsp; May 2025 – October 2026  
+  Financial agents and reinforcement learning in Prof. Song Guo's group, mentored by Mr. Zeyu LIU. My work includes AStockArena, FPQC-SAC, FinThink, and Foresee to Trade.

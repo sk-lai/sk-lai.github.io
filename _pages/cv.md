@@ -17,15 +17,16 @@ Dean's List, Spring 2025
 
 ### Research Experience
 
-**LLM Agents for Alpha Mining** · October 2026 – present  
-Working with Zhaochen Su in Prof. Yi R. (May) Fung's group at HKUST.
+**AI for Quant** · October 2026 – present  
+In Prof. Yi R. (May) Fung's group at HKUST, mentored by Zhaochen Su.
 
-**Financial AI Research** · 2025 – present  
-Mentored by Zeyu Liu in Prof. Song Guo's group at HKUST.
+**Financial Agents and Reinforcement Learning** · May 2025 – October 2026  
+In Prof. Song Guo's group at HKUST, mentored by Mr. Zeyu LIU.
 
 - **AStockArena:** Developed the financial-agent benchmark and its decision-auditing pipeline; ran the evaluation and analysis.
 - **FPQC-SAC:** Built the FinRL-based evaluation pipeline and conducted baseline comparisons, ablations, and diagnostic studies.
 - **FinThink:** Reproduced baselines, ran backtests, and worked on memory-module improvements.
+- **Foresee to Trade:** Working paper on forecast-augmented policy optimization for portfolio management; public release forthcoming.
 
 ### Internship
 
