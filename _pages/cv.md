@@ -21,7 +21,7 @@ Dean's List, Spring 2025
 In Prof. Yi R. (May) Fung's group at HKUST, mentored by Zhaochen Su.
 
 **Financial Agents and Reinforcement Learning** · May 2025 – October 2026  
-In Prof. Song Guo's group at HKUST, mentored by Mr. Zeyu LIU.
+In Prof. Song Guo's group at HKUST, mentored by Zeyu LIU.
 
 - **AStockArena:** Developed the financial-agent benchmark and its decision-auditing pipeline; ran the evaluation and analysis.
 - **FPQC-SAC:** Built the FinRL-based evaluation pipeline and conducted baseline comparisons, ablations, and diagnostic studies.
