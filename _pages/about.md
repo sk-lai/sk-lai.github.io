@@ -3,7 +3,10 @@ layout: about
 title: about
 permalink: /
 subtitle: Undergraduate student @ <a href="https://hkust.edu.hk/">HKUST</a> · Computer Science & Artificial Intelligence
-profile: false
+profile:
+  align: right
+  image: avatar.png
+  image_circular: true
 selected_papers: true
 social: true
 announcements:
@@ -13,6 +16,20 @@ announcements:
 latest_posts:
   enabled: false
 ---
+
+<style>
+  .profile img {
+    display: block;
+    width: 100%;
+    max-width: 260px;
+    height: auto;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    object-position: center top;
+    border-radius: 50%;
+    margin-inline: auto;
+  }
+</style>
 
 Hi, welcome! I am **Sing Kwong Lai (賴星光)**, an undergraduate student at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), majoring in Computer Science with an extended major in Artificial Intelligence.
 
