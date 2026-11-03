@@ -31,7 +31,7 @@ latest_posts:
   }
 </style>
 
-Hi, welcome! I am **Sing Kwong Lai (賴星光)**, an undergraduate student at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), majoring in Computer Science with an extended major in Artificial Intelligence.
+Hi, welcome! I am **LAI Sing Kwong (賴星光)**, an undergraduate student at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), majoring in Computer Science with an extended major in Artificial Intelligence.
 
 I am currently working on **AI for Quant** in [Prof. Yi R. (May) Fung](https://mayrfung.github.io/)'s group, mentored by [Zhaochen Su](https://zhaochen0110.github.io/). Previously, I collaborated with Mr. Zeyu LIU on AI for finance in [Prof. Song Guo](https://cse.hkust.edu.hk/~songguo/)'s group.
 
