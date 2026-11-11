@@ -1,4 +1,7 @@
 User-agent: *
 Disallow:
 
+User-agent: Googlebot-Image
+Disallow: /assets/img/avatar
+
 Sitemap: https://sk-lai.github.io/sitemap.xml
