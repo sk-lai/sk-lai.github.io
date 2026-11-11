@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+googlebot: "max-image-preview:none"
 og_image: /assets/img/avatar-square.png
 subtitle: Undergraduate student @ <a href="https://hkust.edu.hk/">HKUST</a> · Computer Science & Artificial Intelligence
 profile:

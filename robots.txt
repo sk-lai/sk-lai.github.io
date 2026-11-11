@@ -4,4 +4,7 @@ permalink: /robots.txt
 User-agent: *
 Disallow:
 
+User-agent: Googlebot-Image
+Disallow: /assets/img/avatar
+
 Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
